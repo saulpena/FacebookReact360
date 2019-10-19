@@ -1,0 +1,7 @@
+#Sat Oct 19 18:17:34 EDT 2019
+base.0=/Users/Hessvacio/Dev/Projects/Unity/VR/pet-world-vr/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/Hessvacio/Dev/Projects/Unity/VR/pet-world-vr/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/1
